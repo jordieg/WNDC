@@ -28,6 +28,12 @@ img {
   padding: 50px;
 }
 
+h1 {
+  font-size: 36;
+  font-family: San-serif;
+  text-align: center;
+}
+
 p {
   text-align: center;
   padding: 50px;
