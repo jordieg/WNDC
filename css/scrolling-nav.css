@@ -38,7 +38,8 @@ p {
   padding: 50px;
 }
 
-ul {
+ol {
   color: #333333;
   padding: 25px;
+  width: 75%;
 }
