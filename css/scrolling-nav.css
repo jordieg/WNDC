@@ -28,9 +28,14 @@ img {
   padding: 50px;
 }
 
-h1, h2 {
+h1 {
   font-family: sans-serif;
   align: center;
+}
+
+h2 {
+  font-family: sans-serif;
+  padding: 10px;
 }
 
 p {
