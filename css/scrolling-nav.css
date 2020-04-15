@@ -28,8 +28,7 @@ img {
   padding: 50px;
 }
 
-h1 {
-  font-size: 36;
+h1, h2 {
   font-family: sans-serif;
   align: center;
 }
@@ -37,4 +36,9 @@ h1 {
 p {
   text-align: center;
   padding: 50px;
+}
+
+ul {
+  color: #333333;
+  padding: 25px;
 }
