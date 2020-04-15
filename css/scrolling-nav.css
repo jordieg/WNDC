@@ -49,3 +49,7 @@ ol {
   padding: 25px;
   width: 75%;
 }
+
+ol li {
+  padding-left: 50px;
+}
