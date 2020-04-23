@@ -56,5 +56,6 @@ ol li {
 
 div.datapart {
   position: relative;
-  left: 30px;
+  left: 250px;
+  margin-right: 200px;
 }
