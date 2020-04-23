@@ -53,3 +53,8 @@ ol {
 ol li {
   padding-left: 50px;
 }
+
+div.datapart {
+  position: relative;
+  left: 30px;
+}
